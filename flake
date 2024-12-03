@@ -1,0 +1,194 @@
+./app.py:26:1: E402 module level import not at top of file
+./app.py:27:1: E402 module level import not at top of file
+./app.py:28:1: E402 module level import not at top of file
+./app.py:29:1: E402 module level import not at top of file
+./app.py:30:1: E402 module level import not at top of file
+./app.py:31:1: E402 module level import not at top of file
+./app.py:32:1: E402 module level import not at top of file
+./app.py:33:1: E402 module level import not at top of file
+./app.py:34:1: E402 module level import not at top of file
+./app.py:35:1: E402 module level import not at top of file
+./app.py:36:1: E402 module level import not at top of file
+./config.py:5:1: E302 expected 2 blank lines, found 1
+./config.py:9:80: E501 line too long (100 > 79 characters)
+./config.py:13:1: W293 blank line contains whitespace
+./config.py:20:80: E501 line too long (81 > 79 characters)
+./config.py:20:82: W292 no newline at end of file
+./models.py:10:80: E501 line too long (137 > 79 characters)
+./models.py:25:1: E302 expected 2 blank lines, found 1
+./models.py:33:80: E501 line too long (93 > 79 characters)
+./models.py:38:80: E501 line too long (95 > 79 characters)
+./models.py:41:5: E303 too many blank lines (2)
+./models.py:47:1: W293 blank line contains whitespace
+./models.py:63:80: E501 line too long (86 > 79 characters)
+./models.py:65:80: E501 line too long (87 > 79 characters)
+./models.py:74:1: W293 blank line contains whitespace
+./models.py:79:1: W293 blank line contains whitespace
+./models.py:81:32: W291 trailing whitespace
+./models.py:83:80: E501 line too long (141 > 79 characters)
+./models.py:83:90: E272 multiple spaces before keyword
+./models.py:91:5: E265 block comment should start with '# '
+./models.py:91:80: E501 line too long (99 > 79 characters)
+./models.py:99:80: E501 line too long (116 > 79 characters)
+./models.py:107:1: W293 blank line contains whitespace
+./models.py:109:41: W291 trailing whitespace
+./models.py:116:80: E501 line too long (92 > 79 characters)
+./models.py:117:80: E501 line too long (101 > 79 characters)
+./models.py:120:1: W293 blank line contains whitespace
+./models.py:121:1: E302 expected 2 blank lines, found 1
+./models.py:128:1: W293 blank line contains whitespace
+./models.py:138:1: W293 blank line contains whitespace
+./models.py:139:1: E302 expected 2 blank lines, found 1
+./models.py:141:59: W291 trailing whitespace
+./models.py:147:1: W293 blank line contains whitespace
+./models.py:153:17: E225 missing whitespace around operator
+./models.py:154:19: E225 missing whitespace around operator
+./models.py:155:15: E225 missing whitespace around operator
+./models.py:157:1: E302 expected 2 blank lines, found 1
+./models.py:161:80: E501 line too long (81 > 79 characters)
+./models.py:174:5: E301 expected 1 blank line, found 0
+./models.py:175:80: E501 line too long (101 > 79 characters)
+./models.py:176:80: E501 line too long (173 > 79 characters)
+./models.py:187:48: W291 trailing whitespace
+./models.py:188:57: W291 trailing whitespace
+./models.py:189:72: W291 trailing whitespace
+./models.py:190:80: W291 trailing whitespace
+./models.py:194:80: E501 line too long (88 > 79 characters)
+./models.py:195:1: W293 blank line contains whitespace
+./models.py:196:23: W291 trailing whitespace
+./routes/assets.py:15:1: E302 expected 2 blank lines, found 1
+./routes/assets.py:17:18: W291 trailing whitespace
+./routes/assets.py:19:80: E501 line too long (84 > 79 characters)
+./routes/assets.py:29:80: E501 line too long (82 > 79 characters)
+./routes/assets.py:31:80: E501 line too long (92 > 79 characters)
+./routes/assets.py:32:1: W293 blank line contains whitespace
+./routes/assets.py:40:80: E501 line too long (95 > 79 characters)
+./routes/assets.py:40:96: W291 trailing whitespace
+./routes/assets.py:41:1: W293 blank line contains whitespace
+./routes/assets.py:44:80: E501 line too long (95 > 79 characters)
+./routes/assets.py:51:80: E501 line too long (134 > 79 characters)
+./routes/assets.py:55:1: W293 blank line contains whitespace
+./routes/assets.py:58:43: W291 trailing whitespace
+./routes/assets.py:64:80: E501 line too long (137 > 79 characters)
+./routes/assets.py:65:80: E501 line too long (108 > 79 characters)
+./routes/assets.py:85:80: E501 line too long (84 > 79 characters)
+./routes/assets.py:104:1: E303 too many blank lines (3)
+./routes/assets.py:109:80: E501 line too long (86 > 79 characters)
+./routes/assets.py:111:1: W293 blank line contains whitespace
+./routes/assets.py:116:1: W293 blank line contains whitespace
+./routes/assets.py:128:80: E501 line too long (84 > 79 characters)
+./routes/assets.py:130:80: E501 line too long (92 > 79 characters)
+./routes/assets.py:135:49: W291 trailing whitespace
+./routes/assets.py:156:80: E501 line too long (87 > 79 characters)
+./routes/assets.py:163:80: E501 line too long (83 > 79 characters)
+./routes/assets.py:170:43: W291 trailing whitespace
+./routes/assets.py:177:80: E501 line too long (89 > 79 characters)
+./routes/assets.py:179:80: E501 line too long (98 > 79 characters)
+./routes/assets.py:189:59: W292 no newline at end of file
+./routes/get_account_info.py:15:9: E122 continuation line missing indentation or outdented
+./routes/get_account_info.py:16:9: E122 continuation line missing indentation or outdented
+./routes/get_account_info.py:19:60: W292 no newline at end of file
+./routes/get_user_jnfo.py:24:60: W292 no newline at end of file
+./routes/market.py:11:1: E302 expected 2 blank lines, found 1
+./routes/market.py:15:73: W291 trailing whitespace
+./routes/market.py:18:1: E302 expected 2 blank lines, found 1
+./routes/market.py:24:73: W291 trailing whitespace
+./routes/market.py:25:1: W293 blank line contains whitespace
+./routes/market.py:26:80: E501 line too long (88 > 79 characters)
+./routes/market.py:27:1: W293 blank line contains whitespace
+./routes/market.py:33:1: W391 blank line at end of file
+./routes/otp.py:12:1: E303 too many blank lines (4)
+./routes/otp.py:14:1: E302 expected 2 blank lines, found 1
+./routes/otp.py:16:71: W291 trailing whitespace
+./routes/otp.py:19:1: E302 expected 2 blank lines, found 1
+./routes/otp.py:26:80: E501 line too long (114 > 79 characters)
+./routes/otp.py:50:1: W293 blank line contains whitespace
+./routes/otp.py:54:80: E501 line too long (162 > 79 characters)
+./routes/otp.py:63:80: E501 line too long (109 > 79 characters)
+./routes/otp.py:68:1: E302 expected 2 blank lines, found 1
+./routes/otp.py:71:80: E501 line too long (95 > 79 characters)
+./routes/otp.py:72:80: E501 line too long (99 > 79 characters)
+./routes/otp.py:80:80: E501 line too long (102 > 79 characters)
+./routes/otp.py:82:80: E501 line too long (84 > 79 characters)
+./routes/otp.py:86:80: E501 line too long (81 > 79 characters)
+./routes/otp.py:90:68: W292 no newline at end of file
+./routes/pin.py:11:1: E302 expected 2 blank lines, found 1
+./routes/pin.py:17:1: W293 blank line contains whitespace
+./routes/pin.py:28:1: W293 blank line contains whitespace
+./routes/pin.py:40:80: E501 line too long (84 > 79 characters)
+./routes/pin.py:42:1: W293 blank line contains whitespace
+./routes/pin.py:55:1: W293 blank line contains whitespace
+./routes/pin.py:60:61: W292 no newline at end of file
+./routes/prices_api.py:2:80: E501 line too long (137 > 79 characters)
+./routes/prices_api.py:11:1: E302 expected 2 blank lines, found 1
+./routes/prices_api.py:15:1: W293 blank line contains whitespace
+./routes/prices_api.py:21:5: F841 local variable 'e' is assigned to but never used
+./routes/register.py:12:1: E302 expected 2 blank lines, found 1
+./routes/register.py:16:1: E302 expected 2 blank lines, found 1
+./routes/register.py:20:80: E501 line too long (107 > 79 characters)
+./routes/register.py:28:80: E501 line too long (80 > 79 characters)
+./routes/register.py:30:1: W293 blank line contains whitespace
+./routes/register.py:32:34: E231 missing whitespace after ':'
+./routes/register.py:53:1: W293 blank line contains whitespace
+./routes/session.py:5:16: E271 multiple spaces after keyword
+./routes/session.py:25:50: W291 trailing whitespace
+./routes/session.py:29:80: E501 line too long (85 > 79 characters)
+./routes/session.py:36:1: E302 expected 2 blank lines, found 1
+./routes/subscriptions.py:10:24: W291 trailing whitespace
+./routes/subscriptions.py:15:1: E302 expected 2 blank lines, found 1
+./routes/subscriptions.py:16:80: E501 line too long (83 > 79 characters)
+./routes/subscriptions.py:18:80: E501 line too long (81 > 79 characters)
+./routes/subscriptions.py:24:80: E501 line too long (90 > 79 characters)
+./routes/subscriptions.py:26:80: E501 line too long (80 > 79 characters)
+./routes/subscriptions.py:28:1: W293 blank line contains whitespace
+./routes/subscriptions.py:38:80: E501 line too long (98 > 79 characters)
+./routes/subscriptions.py:39:80: E501 line too long (93 > 79 characters)
+./routes/subscriptions.py:52:80: E501 line too long (88 > 79 characters)
+./routes/subscriptions.py:54:1: W293 blank line contains whitespace
+./routes/subscriptions.py:64:80: E501 line too long (88 > 79 characters)
+./routes/subscriptions.py:65:1: W293 blank line contains whitespace
+./routes/subscriptions.py:75:1: W293 blank line contains whitespace
+./routes/subscriptions.py:80:80: E501 line too long (117 > 79 characters)
+./routes/trader.py:11:24: W291 trailing whitespace
+./routes/trader.py:22:80: E501 line too long (136 > 79 characters)
+./routes/trader.py:31:21: W291 trailing whitespace
+./routes/trader.py:33:1: E302 expected 2 blank lines, found 1
+./routes/trader.py:34:80: E501 line too long (81 > 79 characters)
+./routes/trader.py:46:21: W291 trailing whitespace
+./routes/trader.py:48:1: E302 expected 2 blank lines, found 1
+./routes/trader.py:50:80: E501 line too long (81 > 79 characters)
+./routes/trader.py:56:1: W293 blank line contains whitespace
+./routes/trader.py:57:80: E501 line too long (81 > 79 characters)
+./routes/trader.py:59:1: W293 blank line contains whitespace
+./routes/trader.py:62:80: E501 line too long (85 > 79 characters)
+./routes/trader.py:63:80: E501 line too long (81 > 79 characters)
+./routes/trader.py:63:82: W291 trailing whitespace
+./routes/trader.py:64:1: W293 blank line contains whitespace
+./routes/trader.py:80:1: W293 blank line contains whitespace
+./routes/trader.py:91:1: W293 blank line contains whitespace
+./routes/trader.py:99:79: W292 no newline at end of file
+./routes/transactions.py:2:19: E271 multiple spaces after keyword
+./routes/transactions.py:9:1: E303 too many blank lines (3)
+./routes/transactions.py:16:1: E302 expected 2 blank lines, found 1
+./routes/transactions.py:22:1: W293 blank line contains whitespace
+./routes/transactions.py:30:80: E501 line too long (82 > 79 characters)
+./routes/transactions.py:32:80: E501 line too long (92 > 79 characters)
+./routes/transactions.py:41:80: E501 line too long (122 > 79 characters)
+./routes/transactions.py:42:21: E201 whitespace after '{'
+./routes/transactions.py:50:13: E117 over-indented
+./routes/transactions.py:58:80: E501 line too long (82 > 79 characters)
+./routes/transactions.py:60:80: E501 line too long (92 > 79 characters)
+./routes/transactions.py:70:80: E501 line too long (125 > 79 characters)
+./routes/transactions.py:79:80: E501 line too long (92 > 79 characters)
+./routes/transactions.py:80:13: E117 over-indented
+./routes/transactions.py:85:80: E501 line too long (91 > 79 characters)
+./routes/transactions.py:89:80: E501 line too long (82 > 79 characters)
+./routes/transactions.py:91:80: E501 line too long (92 > 79 characters)
+./routes/transactions.py:100:1: W293 blank line contains whitespace
+./routes/transactions.py:101:80: E501 line too long (84 > 79 characters)
+./routes/transactions.py:104:1: W293 blank line contains whitespace
+./routes/transactions.py:108:80: E501 line too long (173 > 79 characters)
+./routes/transactions.py:119:1: W293 blank line contains whitespace
+./routes/transactions.py:124:12: W291 trailing whitespace
+./routes/transactions.py:125:80: E501 line too long (80 > 79 characters)
+./routes/transactions.py:125:81: W292 no newline at end of file
